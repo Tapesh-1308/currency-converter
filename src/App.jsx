@@ -38,7 +38,7 @@ function App() {
   
   return (
     <>
-      <div className="px-8 py-16 box flex flex-col justify-center items-center">
+      <div className="px-8 py-16 box flex flex-col justify-center items-center scale-75 sm:scale-100">
         <Heading />
         <Input
           label="Amount"
